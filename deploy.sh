@@ -1,3 +1,3 @@
 #!/bin/bash
-ENVIRONMENT="production"
+ENVIRONMENT="staging-server"
 echo "Deploying application to $ENVIRONMENT"
